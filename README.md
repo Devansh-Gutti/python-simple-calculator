@@ -1,1 +1,1 @@
-# python-simple-calculator
+# python-mini-preoject
