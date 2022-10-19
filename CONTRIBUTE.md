@@ -6,8 +6,8 @@ There's a different function for the area, volume and conditions.
 You're only allowed to make **one** pr per person to this repository as it's only for learning basic git commands and for beginners.
 
 **Issues**
-1)Adding deicmal acceptance
-2)Remove the select conditon button
+-Adding deicmal acceptance
+-Remove the select conditon button
 3)Adding more functions like power etc
 4)Change the colouring 
 5)Removing the the small box that comes near the shaper
