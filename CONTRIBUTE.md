@@ -8,11 +8,11 @@ You're only allowed to make **one** pr per person to this repository as it's onl
 **Issues**
 - Adding deicmal acceptance
 - Remove the select conditon button
-3)Adding more functions like power etc
-4)Change the colouring 
-5)Removing the the small box that comes near the shaper
-6)Adding trignometric functions
-7)Changing the width and height of textboxes based on screen size
-8)Changing the textboxes for each shape i.e not having to enter 0 if you don't use each shape
+- Adding more functions like power etc
+- Change the colouring 
+- Removing the the small box that comes near the shaper
+- Adding trignometric functions
+- Changing the width and height of textboxes based on screen size
+- Changing the textboxes for each shape i.e not having to enter 0 if you don't use each shape
 
 
