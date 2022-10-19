@@ -1,6 +1,7 @@
 # Simple Calculator
 
-Beginner repository to start out your Hacktoberfest contributions and learn basic git commands.
+Simple calculator with area, volume, condition checks etc.
+Built using Python modules like tkinter.
 
-You are only allowed to make **one** pull request in this repository.
+**Maintainer in charge**: Nishtha https://github.com/nishtha981
 
