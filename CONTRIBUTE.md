@@ -8,5 +8,7 @@ You're only allowed to make **one** pr per person to this repository as it's onl
 **Build Instructions**
 - python complier
 - any code editor such a vs code, notepad++ 
+- # Macos M1
+brew install python-tk
 
 
